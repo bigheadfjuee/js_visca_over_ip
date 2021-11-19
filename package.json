@@ -1,0 +1,30 @@
+{
+  "name": "js_visca_over_ip",
+  "version": "1.0.0",
+  "description": "Use Node.js to control IP camera by VISCA over IP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigheadfjuee/js_visca_over_ip.git"
+  },
+  "keywords": [
+    "visca",
+    "over",
+    "ip"
+  ],
+  "author": "Tony Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigheadfjuee/js_visca_over_ip/issues"
+  },
+  "homepage": "https://github.com/bigheadfjuee/js_visca_over_ip#readme",
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "debug": "^4.3.2",
+    "dgram": "^1.0.1",
+    "readline": "^1.3.0"
+  }
+}
